@@ -26,10 +26,12 @@ Users should be able to:
 
 ### Screenshot
 
+[Screenshot](assets/images/notification-panel.png)
+
 ### Links
 
-- Solution URL: [Add solution URL here](https://github.com/Oludefiyinfoluwa06/Front-end-notification-panel)
-- Live Site URL: [Add live site URL here](https://notification-panel-eight.vercel.app/)
+- Solution URL: [GitHub Repo](https://github.com/Oludefiyinfoluwa06/Front-end-notification-panel)
+- Live Site URL: [Notification Panel](https://notification-panel-eight.vercel.app/)
 
 ## My process
 
