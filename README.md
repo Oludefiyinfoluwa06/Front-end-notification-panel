@@ -26,7 +26,7 @@ Users should be able to:
 
 ### Screenshot
 
-[Screenshot](assets/images/notification-panel.png)
+![](assets/images/notification-panel.png)
 
 ### Links
 
